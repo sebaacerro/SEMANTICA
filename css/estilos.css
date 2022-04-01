@@ -15,7 +15,16 @@ selector {
 */
 
 body {
-    background-color: oldlace;
+    background-color: #F9F1B2
 }
 h1 {
-    color:rgb(30, 123, 210);
+    color:#bb1a1a
+
+}
+tr{
+
+background-color:#00C5FF
+}
+h3{
+    color:#00C5FF
+}
