@@ -1,0 +1,48 @@
+#a{
+    height: 100vh;
+    width: 16.6%;
+    justify-content: center;
+    background-color: blue;
+}
+
+#b{
+    height: 100vh;
+    width: 16.6%;
+    justify-content: center;
+    background-color: blueviolet;
+}
+
+#c {
+    height: 100vh;
+    width: 16.6%;
+    justify-content: center;
+    background-color:brown
+}
+#d{
+    height: 100vh;
+    width: 16.6%;
+    justify-content: center;
+    background-color:burlywood
+
+}
+#e{
+    height: 100vh;
+    width: 16.6%;
+    justify-content: center;
+    background-color: blueviolet;
+    margin: 16.6;
+}
+
+#f{  height: 100vh;
+    width: 16.6%;
+    justify-content: center;
+    margin: 16.6;
+    background-color:aqua;}
+header {
+    text-align: center;
+    background-color: aqua;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
